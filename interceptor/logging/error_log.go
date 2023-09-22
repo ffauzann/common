@@ -1,7 +1,7 @@
 package logging
 
 import (
-	"hangoutin/common/util"
+	"github.com/ffauzann/common/util"
 
 	"go.uber.org/zap"
 	"google.golang.org/grpc/codes"

@@ -1,4 +1,4 @@
-module hangoutin/common
+module github.com/ffauzann/common
 
 go 1.19
 

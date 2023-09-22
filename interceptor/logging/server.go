@@ -2,8 +2,9 @@ package logging
 
 import (
 	"context"
-	"hangoutin/common/util"
 	"time"
+
+	"github.com/ffauzann/common/util"
 
 	"go.uber.org/zap"
 	"google.golang.org/grpc"

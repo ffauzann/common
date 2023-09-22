@@ -2,8 +2,9 @@ package authentication
 
 import (
 	"context"
-	"hangoutin/common/util"
 	"strings"
+
+	"github.com/ffauzann/common/util"
 
 	"golang.org/x/exp/slices"
 	"google.golang.org/grpc"
